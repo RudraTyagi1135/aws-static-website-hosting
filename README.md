@@ -130,6 +130,8 @@ Static Website Hosting
 Public Website Endpoint
 ```
 
+![Architecture](architecture/architecture.png)
+
 ---
 
 # ⚙️ Architecture Breakdown
