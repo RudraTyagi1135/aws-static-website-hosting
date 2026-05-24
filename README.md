@@ -251,33 +251,33 @@ The following policy prevents deletion of the website entry file:
 
 ## ☁️ S3 Bucket Creation
 
-```markdown
+
 ![Create Bucket](screenshots/create-bucket.png)
-```
+
 
 ---
 
 ## 📤 Uploading Website Files
 
-```markdown
+
 ![Upload Files](screenshots/upload-files.png)
-```
+
 
 ---
 
 ## 🌐 Enabling Static Website Hosting
 
-```markdown
+
 ![Enable Hosting](screenshots/enable-hosting.png)
-```
+
 
 ---
 
 ## 💻 Live Hosted Website
 
-```markdown
+
 ![Webpage](screenshots/webpage.png)
-```
+
 
 ---
 
